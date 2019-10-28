@@ -8,7 +8,7 @@ Dieses Verfahren ist ein traditioneller schwarz-weiß Druck. Das bedeutet, dass 
 Der eigentliche Druck beginnt nach der Gestaltung des Druckstocks. Hierfür wird Linolfarbe auf einem glatten Untergrund ausgerollt und dann mit einer Linoldruckrolle nach und nach dünn auf die Linolplatte aufgetragen. Zu beachten ist, dass die SuS nicht zu viel Farbe verwenden, da diese sonst in die ausgeritzten Flächen gelangt und so kein klarer Druck entsteht. Zum Drucken wird ein Blatt auf die eingefärbte Druckplatte gelegt und gedruckt. Um das Drucken zu erleichtern kann die Platte in einer Hochdruckpresse gedruckt werden. Doch da in vielen Schulen solche nicht zur Verfügung stehen können die Schüler mit ihrem Eigengewicht drucken, indem sie Druck mit ihren Händen oder Füßen auf die Platte ausüben. So kann dieses Verfahren einfach in Schulen durchgeführt werden. 
 Zusätzlich bietet der Linoldruck die Möglichkeit mehrfarbig zu drucken und den Gestaltungsprozess in form einer Serie oder einer verlorenen Platte festzuhalten. Diese wird dann mit sogenannten Zustandsdrucke veranschaulichen die Entwicklung der Platte, die auch für Mitschüler sehr interessant ist und zur eigenen Reflexion anregen.  
 
-<img src="Bild1.jpg">
+<img src="Bild2.jpg">
 
 # Holzdruck 
 
