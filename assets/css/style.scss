@@ -3,9 +3,10 @@
 
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed|Liu+Jian+Mao+Cao&display=swap');
 
 body {
-    font-family: 'Liu Jian Mao Cao', cursive;
+    font-family: 'Barlow Condensed', sans-serif;
 }
 
 h1,
