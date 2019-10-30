@@ -2,7 +2,7 @@
 
 In dem Seminar „Smartphones, iPads und Computer im Kunstunterricht“ wurden verschiedene Tools thematisiert, die in den Kunstunterricht integriert werden können. Diese haben wir selbst erprobt und Unterrichtsideen entwickelt. 
 
-Mein Unterrichtsentwurf, der ab der ersten Klasse durchführbar ist, wird mit Hilfe der App Folify umgesetzt: 
+Mein Unterrichtsentwurf, der ab der ersten Klasse durchführbar ist, wird mit Hilfe der App "foldify" umgesetzt: 
 
 <img src="Bild4.jpg">
 
