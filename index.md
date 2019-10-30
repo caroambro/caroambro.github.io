@@ -1,15 +1,16 @@
-# Linoldruck 
+# Smartphones, iPads und Computer im Kunstunterricht 
 
-Linoldruck ist eines der klassischen Hochdruckverfahren. Dieses Verfahren ist gut für SuS einer höheren Jahrgangsstufe geeignet (ca. ab 7. Klasse), da man in hier mit scharfen Schneidewerkzeugen arbeiten muss.
-Für den Linoldruck benötigt man Linolplatten, Linolfarben, Linoldruckrollen, Schneidewerkzeug und nach Bedarf einen „Metall, Glas, Plastik Edding“. 
-Die SuS können je nach Wunsch die Motive Ihrer Wahr mit dem Edding auf die Linolplatte, die als Druckstock fungiert, vorzeichnen. Doch schon dabei muss ihnen klar sein, dass das, was sie wegritzen weiß bleibt. Dann schnitzen die SuS die gewünschten Motive in Ihre Platte. 
-Dabei ist es wichtig, dass die Hand, die nicht das Schneidewerkzeug bedient sich hinter der anderen befindet. Die zweite Hand sollte sich zu keiner Zeit des Schnitzens vor dem Schneidewerkzeug befinden, da die SuS sehr schnell mit dem Werkzeug abrutschen können und sich so stark verletzen können. 
-Dieses Verfahren ist ein traditioneller schwarz-weiß Druck. Das bedeutet, dass die rausgeritzten Flächen weiß und die stehengebliebenen Flächen schwarz auf dem Papier abgedruckt werden. 
-Der eigentliche Druck beginnt nach der Gestaltung des Druckstocks. Hierfür wird Linolfarbe auf einem glatten Untergrund ausgerollt und dann mit einer Linoldruckrolle nach und nach dünn auf die Linolplatte aufgetragen. Zu beachten ist, dass die SuS nicht zu viel Farbe verwenden, da diese sonst in die ausgeritzten Flächen gelangt und so kein klarer Druck entsteht. Zum Drucken wird ein Blatt auf die eingefärbte Druckplatte gelegt und gedruckt. Um das Drucken zu erleichtern kann die Platte in einer Hochdruckpresse gedruckt werden. Doch da in vielen Schulen solche nicht zur Verfügung stehen können die Schüler mit ihrem Eigengewicht drucken, indem sie Druck mit ihren Händen oder Füßen auf die Platte ausüben. So kann dieses Verfahren einfach in Schulen durchgeführt werden. 
-Zusätzlich bietet der Linoldruck die Möglichkeit mehrfarbig zu drucken und den Gestaltungsprozess in form einer Serie oder einer verlorenen Platte festzuhalten. Diese wird dann mit sogenannten Zustandsdrucke veranschaulichen die Entwicklung der Platte, die auch für Mitschüler sehr interessant ist und zur eigenen Reflexion anregen.  
+In dem Seminar „Smartphones, iPads und Computer im Kunstunterricht“ wurden verschiedene Tools thematisiert, die in den Kunstunterricht integriert werden können. Diese haben wir selbst erprobt und Unterrichtsideen entwickelt. 
+
+Mein Unterrichtsentwurf, der ab der ersten Klasse durchführbar ist, wird mit Hilfe der App Folify umgesetzt: 
 
 <img src="Bild2.jpg">
 
-# Holzdruck 
+# Padlet
 
-Bei dem klassischen Holzdruck wird das gleiche Verfahren wie bei dem Linoldruck durchgeführt. Der Unterschied liegt hier lediglich im Druckstock. Als Druckstock wird hier nämlich eine dünne, im  Baumarkt erhältliche Holzplatte benutzt. Das Bearbeiten der Holzplatte ist im Vergleich zu den weichen Linolplatten schwieriger.  Die Maserung und Wuchsrichtung der Holzplatte erschweren das generelle Reinritzen und vor allem das Reinritzen von Kurven. In der Schule ist diese Methode, da es das gleiche Verfahren wie beim Linoldruck ist auch durchführbar. Jedoch ist die Bearbeitung der Platte schwieriger. Darum sollte der Holzdruck wenn erst ab der Oberstufe durchgeführt werden, wo er im Vergleich zum Linolschnitt betrachtet werden könnte. 
+Padlet ist eine 2008 gegründete digitale Plattform, die online und in einer gleichna- migen App genutzt werden kann. Ein Padlet ist ein digitales Whiteboard, welches in Form einer Pinnwand dargestellt wird. Der Zugang zu dem Padlet, der Pinnwand, kann mit Hilfe eines Links oder eines Passwortes ermöglicht werden, sodass die Pinnwand für unbegrenzt viele Teilnehmer*innen gleichzeitig zugänglich ist und be- arbeitet werden kann. Für die Plattform bzw. die App, die in 29 Sprachen zur Verfü- gung steht, und die dort erstellten Padlets, besteht weltweiter Zugriff. (vgl. www.pad- let.com)
+Das Erstellen eines Padlets erfordert einen Account bei Padlet. Hierzu muss eine kostenlose Registrierung durchgeführt werden. Dann können drei Padlets erstellt werden. Für das Erstellen und Behalten von mehr als drei Padlets kann ein Upgrade käuflich erworben werden. Der Zugang und die Bearbeitung eines bereits erstellten Padlets erfordert keine Registrierung bei Padlet. Dadurch können die Schüler*innen ohne Anmeldung einen schnellen und einfachen Zugang über die App mit ihren mo- bilen Endgeräten, wie iPads oder Smartphones, erhalten. (vgl. Fisher 2017: S. 163) Die Beiträge, wie Text, Bild- oder Tonmaterial, erscheinen auf dem Padlet in Form einer Notiz. Die einzelnen Notizen können geordnet und vernetzt werden. Außer- dem können Links eingefügt werden, wodurch die Möglichkeit besteht eine direkte Verknüpfung mit anderen Plattformen, wie beispielsweise YouTube, herzustellen. (vgl. Eckstein/ Zahorka 2018: S. 160)
+7
+Über weitere Funktionen und Neuheiten können sich die Nutzer*innen auf der Homepage von Padlet näher informieren. (vgl. www.padlet.com)
+
+
