@@ -4,7 +4,7 @@ In dem Seminar „Smartphones, iPads und Computer im Kunstunterricht“ wurden v
 
 Mein Unterrichtsentwurf, der ab der ersten Klasse durchführbar ist, wird mit Hilfe der App Folify umgesetzt: 
 
-<img src="Bild2.jpg">
+<img src="Bild4.jpg">
 
 # Padlet
 
